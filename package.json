@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Shwetang550.github.io/CheckList/",
+  "homepage": "https://github.com/Shwetang550/CheckList/",
   "name": "es6-spread-operator-practice",
   "version": "1.0.0",
   "description": "",
@@ -14,8 +14,8 @@
     "typescript": "3.3.3"
   },
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
